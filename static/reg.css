@@ -1,0 +1,15 @@
+.new{
+    font-size:70px;
+    margin-top: -300px;
+    color: whitesmoke;
+    font-family: ui-sans-serif;
+}
+body{
+    background-image: url("first.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.card {
+    background-color: rgba(139, 38, 38, 0);
+    color: beige;
+}

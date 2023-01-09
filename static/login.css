@@ -1,0 +1,20 @@
+
+body{
+    background-image: url('http://127.0.0.1:5000/static/image/new.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.container{
+max-width: 400px;
+margin-top: 15%;
+}
+.form-label{
+ padding: 50px;
+ margin-bottom: 20px;
+
+
+}
+.form-control{
+    font-size: 25px;
+}
