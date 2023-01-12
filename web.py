@@ -1,6 +1,6 @@
 from flask  import Flask , render_template,request,redirect
 import  utils.json_utils as json_utils
-file="karthimagi2411\web.json"
+file="web.json"
 
 app=Flask(__name__)
 @app.route("/")
